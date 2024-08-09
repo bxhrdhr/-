@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /font/
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /*.css
+Disallow: /*.js
+
+Sitemap: https://api.vvhan.com/sitemap.xml
